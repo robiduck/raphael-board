@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "name": "Raphael",
+      "maintainer": "Raphael Robotics",
+      "websiteURL": "https://github.com/robiduck",
+      "email": "info@robiduck.com",
+      "platforms": [
+        {
+          "name": "Raphael AVR Boards",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "https://robiduck.github.io/raphael-board/raphael-avr-1.0.0.zip",
+          "archiveFileName": "raphael-avr-1.0.0.zip",
+          "checksum": "SHA-256:5385dc8bae3a505559ce4a60f21c87b388566122660c4d14ef8eaf0aab4e8f3b",
+          "size": "1815",
+          "boards": [
+            {"name": "Raphael v0.1 (MiniSumo)"}
+          ]
+        }
+      ]
+    }
+  ]
+}
