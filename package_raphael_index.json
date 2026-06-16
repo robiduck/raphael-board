@@ -13,8 +13,8 @@
           "category": "Contributed",
           "url": "https://robiduck.github.io/raphael-board/raphael-avr-1.0.0.zip",
           "archiveFileName": "raphael-avr-1.0.0.zip",
-          "checksum": "SHA-256:4027f51175f6faffe608331bb817e55a0d4c4f805ae7a5617c22cb6c74c9d5f6",
-          "size": "3096",
+          "checksum": "SHA-256:179165baa7d414283a5074ce3f6e1d414ef68b22e144d173c9ef8a6693526eef",
+          "size": "3142",
           "boards": [
             {"name": "Raphael v0.1"}
           ]
